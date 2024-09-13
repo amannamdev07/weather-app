@@ -603,6 +603,10 @@ video {
   gap: 2rem;
 }
 
+.gap-5 {
+  gap: 1.25rem;
+}
+
 .rounded-xl {
   border-radius: 0.75rem;
 }
